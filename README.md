@@ -1,2 +1,4 @@
-# Avocados-Network-demo---Maquetaci-n-Mobile-First
-Maquetación Mobile First Demo de Avocados Network
+# # Avocados Network Demo
+<img src="./img/Readme1.PNG">
+<br>
+<h2>Demo app - Web responsive page</h2>
