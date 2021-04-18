@@ -1,0 +1,45 @@
+.main-product {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.product-cards--cont {
+    max-height: 400px;
+    max-width: 720px;
+    min-width: 720px;
+}
+
+@media (max-width: 1500px) {
+    .product-cards--cont {
+        max-height: 300px;
+        max-width: 500px;
+        min-width: 500px;
+    }
+}
+
+.planes-contenedor-s {
+    display: flex;
+    gap: 2px;
+    height: auto;
+    overflow: hidden;
+}
+
+.Pack-1 {
+    width: 0%;
+    margin: 0 auto;
+    height: 36rem;
+}
+
+.Pack-2 {
+    width: 0%;
+    margin: 0 auto;
+    height: 36rem;
+}
+
+.main--tables {
+    display: flex;
+    gap: 0px;
+    overflow: hidden;
+}

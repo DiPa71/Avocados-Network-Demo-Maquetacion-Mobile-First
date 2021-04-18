@@ -1,0 +1,26 @@
+.main-product {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.product-cards--cont {
+    max-height: 300px;
+    max-width: 380px;
+    min-width: 380px;
+}
+
+.main--tables {
+    display: flex;
+    gap: 0;
+    height: 420px;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+}
+
+.planes-contenedor-s {
+    justify-content: center;
+    gap: 5px;
+}
